@@ -1,15 +1,15 @@
 
-# Module 2 Final Project
+# King County Regression
+Flatiron Data Science
+Module 2 Project
 Evan Holder
-Flatiron School
 
 ## Repo Contents
 * Readme
-* module_2_presentation.pdf - PDF of my presentation 
-* link to presentation: (https://drive.google.com/file/d/1Sd8ESRaaXv_og-rOxl6ofgfYK0s3eg-c/view?usp=sharing)
+* King-County-Regression.pdf - PDF of my presentation 
+* link to presentation: https://drive.google.com/file/d/1PqWKCG2ie4jBUd8xpiaOHv7bLcnSC_J0/view?usp=sharing
 * student.py - jupyter notebook
 * kc_house_data.xls - housing data
-* blog post link (https://evanholder.github.io/residual_plots)
 
 
 ## Introduction
